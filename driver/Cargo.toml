@@ -1,0 +1,11 @@
+[package]
+name = "driver"
+version = "0.1.0"
+authors = ["Eric Huss"]
+edition = "2018"
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+somedep = { path = "../somedep" }

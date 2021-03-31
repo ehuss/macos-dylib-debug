@@ -1,0 +1,5 @@
+[package]
+name = "somedep"
+version = "0.1.0"
+authors = ["Eric Huss"]
+edition = "2018"
